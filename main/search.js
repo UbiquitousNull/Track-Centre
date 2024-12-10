@@ -1,0 +1,1 @@
+const query = document.getElementById("offcanvas-search");
